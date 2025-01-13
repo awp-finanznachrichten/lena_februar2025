@@ -393,7 +393,6 @@ data_overview <- rbind(data_overview,entry_overview)
 data_overview <- data_overview[-1,]
 write.csv(data_overview,"Output_Overviews/Uebersicht_dw.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
-
 #Charts Uebersicht
 datawrapper_codes_overview <- datawrapper_codes %>%
   filter(Typ == "Uebersicht")
