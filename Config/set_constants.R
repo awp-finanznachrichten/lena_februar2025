@@ -7,6 +7,9 @@ date_voting <- "20250209"
 save_texts <- FALSE
 simulation <- FALSE
 
+#Output for special Einzugsgebiete? Default FALSE
+SPECIAL_AREAS <- FALSE
+
 #Mail
 #DEFAULT_MAILS <- "contentdevelopment@keystone-sda.ch, robot-notification@awp.ch"
 DEFAULT_MAILS <- "robot-notification@awp.ch"
