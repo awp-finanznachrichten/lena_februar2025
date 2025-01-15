@@ -1,7 +1,8 @@
 top_flop <- function(obj,order,langage) {
   
   obj <- obj %>%
-    mutate(Nein_Stimmen_In_Prozent = 100-Ja_Stimmen_In_Prozent)
+    mutate(Nein_Stimmen_In_Prozent = 100-Ja_Stimmen_In_Prozent) %>%
+    left_join(kanton_wappen_raw, by=c("Kanton_Short" = "Kurz"))
   
   if(order == "top")  {data_top <- obj %>%
     arrange(desc(Ja_Stimmen_In_Prozent)) %>%
@@ -12,37 +13,44 @@ top_flop <- function(obj,order,langage) {
     slice(1:50)
   }
   if(langage == "de" & order == "top") {output <- data_top %>%
-    rename(Gemeinde = Gemeinde_KT_d,
+    rename(Gemeinde = Gemeinde_d,
            "Ja in Prozent" = Ja_Stimmen_In_Prozent) %>%
-    select(Gemeinde,'Ja in Prozent')
+    select(Gemeinde,Wappen,'Ja in Prozent') %>%
+    rename(Kanton = Wappen)
   }
   if(langage == "de" & order == "flop") {output <- data_flop %>%
-    rename(Gemeinde = Gemeinde_KT_d,
+    rename(Gemeinde = Gemeinde_d,
            "Nein in Prozent" = Nein_Stimmen_In_Prozent) %>%
-    select(Gemeinde,'Nein in Prozent')
+    select(Gemeinde,Wappen,'Nein in Prozent') %>%
+    rename(Kanton = Wappen)
   }
   if(langage == "fr" & order == "top") {output <- data_top %>%
-    rename(Commune = Gemeinde_KT_f,
+    rename(Commune = Gemeinde_f,
            "Pourcentage de oui" = Ja_Stimmen_In_Prozent) %>%
-    select(Commune,'Pourcentage de oui')
+    select(Commune,Wappen,'Pourcentage de oui') %>%
+    rename(Canton = Wappen)
   }
   if(langage == "fr" & order == "flop") {output <- data_flop %>%
-    rename(Commune = Gemeinde_KT_f,
+    rename(Commune = Gemeinde_f,
            "Pourcentage de non" = Nein_Stimmen_In_Prozent) %>%
-    select(Commune,'Pourcentage de non')
+    select(Commune,Wappen,'Pourcentage de non') %>%
+    rename(Canton = Wappen)
   }
   if(langage == "it" & order == "top") {output <- data_top %>%
-    rename(Comune = Gemeinde_KT_i,
+    rename(Comune = Gemeinde_i,
            "Percentuale di sì" = Ja_Stimmen_In_Prozent) %>%
-    select(Comune,'Percentuale di sì')
+    select(Comune,Wappen,'Percentuale di sì') %>%
+    rename(Cantone = Wappen)
   }
   if(langage == "it" & order == "flop") {output <- data_flop %>%
-    rename(Comune = Gemeinde_KT_i,
+    rename(Comune = Gemeinde_i,
            "Percentuale di no" = Nein_Stimmen_In_Prozent) %>%
-    select(Comune,'Percentuale di no')
+    select(Comune,Wappen,'Percentuale di no') %>%
+    rename(Cantone = Wappen)
   }
   return(output)
 }
+
 
 
 plot_the_data_with_dwrp <- function(data,id,chart_title,chart_source) {
