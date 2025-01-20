@@ -75,7 +75,7 @@ if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
                                sum(results$Gebiet_Ausgezaehlt)," dei ",nrow(results)," comuni sono noti (",
                                round2((sum(results$Gebiet_Ausgezaehlt)*100)/nrow(results),1),
                                "%)")
-
+  
   if (sum(results$Gebiet_Ausgezaehlt) == nrow(results)) {
  
     uebersicht_text_de <- paste0("<b>",titel_all$title_de[1],": ",ifelse(Ja_Anteil > Nein_Anteil,"✅Ja","❌Nein"),"</b>")

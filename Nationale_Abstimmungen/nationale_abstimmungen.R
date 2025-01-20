@@ -338,17 +338,17 @@ Ja_Anteil <- round2(results_national$jaStimmenInProzent,1)
 Nein_Anteil <- round2(100-results_national$jaStimmenInProzent,1)   
   
 
-uebersicht_text_de <- paste0("<b>",vorlagen$text[i],": ",ifelse(Ja_Anteil > Nein_Anteil,"Ja","Nein"),"</b><br>",
+uebersicht_text_de <- paste0("<b>",vorlagen$text[i],": ",ifelse(Ja_Anteil > Nein_Anteil,"✅Ja","❌Nein"),"</b><br>",
                              "Stände: ",results_national$jaStaendeGanz+(results_national$jaStaendeHalb/2)," Ja, ",
                              results_national$neinStaendeGanz+(results_national$neinStaendeHalb/2), " Nein")
 uebersicht_text_de <- gsub("NA","0",uebersicht_text_de)
 
-uebersicht_text_fr <- paste0("<b>",vorlagen_fr$text[i],": ",ifelse(Ja_Anteil > Nein_Anteil,"Oui","Non"),"</b><br>",
+uebersicht_text_fr <- paste0("<b>",vorlagen_fr$text[i],": ",ifelse(Ja_Anteil > Nein_Anteil,"✅oui","❌non"),"</b><br>",
                              "Cantons: ",results_national$jaStaendeGanz+(results_national$jaStaendeHalb/2)," oui, ",
                              results_national$neinStaendeGanz+(results_national$neinStaendeHalb/2), " non")
 uebersicht_text_fr <- gsub("NA","0",uebersicht_text_fr) 
 
-uebersicht_text_it <- paste0("<b>",vorlagen_it$text[i],": ",ifelse(Ja_Anteil > Nein_Anteil,"Sì","No"),"</b><br>",
+uebersicht_text_it <- paste0("<b>",vorlagen_it$text[i],": ",ifelse(Ja_Anteil > Nein_Anteil,"✅sì","❌no"),"</b><br>",
                              "Cantoni: ",results_national$jaStaendeGanz+(results_national$jaStaendeHalb/2)," sì, ",
                              results_national$neinStaendeGanz+(results_national$neinStaendeHalb/2), " no")
 uebersicht_text_it <- gsub("NA","0",uebersicht_text_it) 
