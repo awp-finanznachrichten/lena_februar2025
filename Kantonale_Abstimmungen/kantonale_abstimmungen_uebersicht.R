@@ -77,11 +77,23 @@ if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
                                "%)")
 
   if (sum(results$Gebiet_Ausgezaehlt) == nrow(results)) {
+ 
     uebersicht_text_de <- paste0("<b>",titel_all$title_de[1],": ",ifelse(Ja_Anteil > Nein_Anteil,"Ja","Nein"),"</b>")
     
     uebersicht_text_fr <- paste0("<b>",titel_all$title_fr[1],": ",ifelse(Ja_Anteil > Nein_Anteil,"Oui","Non"),"</b>")
     
     uebersicht_text_it <- paste0("<b>",titel_all$title_it[1],": ",ifelse(Ja_Anteil > Nein_Anteil,"Sì","No"),"</b>")
+    
+    if (is.na(titel_all$type[1]) == FALSE) {
+    if (titel_all$type[1] == "casting_vote") {
+      uebersicht_text_de <- paste0("<b>",titel_all$title_de[1],": ",ifelse(Ja_Anteil > Nein_Anteil,"Initiative","Gegenvorschlag"),"</b>")
+      
+      uebersicht_text_fr <- paste0("<b>",titel_all$title_fr[1],": ",ifelse(Ja_Anteil > Nein_Anteil,"Initiative","Contre-project"),"</b>")
+      
+      uebersicht_text_it <- paste0("<b>",titel_all$title_it[1],": ",ifelse(Ja_Anteil > Nein_Anteil,"Sì","No"),"</b>")  
+    }  
+    }  
+    
     
     cat(paste0("Resultate von folgender kantonalen Abstimmung aus ",kantone_list$geoLevelname[k]," sind komplett:\n",
                  titel_all$title_de[1],"\n",

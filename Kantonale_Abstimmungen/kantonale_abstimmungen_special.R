@@ -338,7 +338,7 @@ write.xlsx(texts,paste0("./Texte/",kantonal_short_special[s],"_texte.xlsx"),row.
         undertitel_gegenvorschlag_fr <- paste0("Résultats contre-proposition: <b>",
                                                round2(results_kantonal_special_gegenvorschlag,1)," %</b> oui, <b>",
                                                round2(100-results_kantonal_special_gegenvorschlag,1)," %</b> non")
-        uundertitel_stichentscheid_fr <- paste0("Résultats question subsidiaire: <b>",
+        undertitel_stichentscheid_fr <- paste0("Résultats question subsidiaire: <b>",
                                                 round2(results_kantonal_special_stichentscheid,1)," %</b> initiative, <b>",
                                                 round2(100-results_kantonal_special_stichentscheid,1)," %</b> contre-proposition")
         
@@ -500,7 +500,7 @@ write.xlsx(texts,paste0("./Texte/",kantonal_short_special[s],"_texte.xlsx"),row.
                         <a target="_self" href="https://datawrapper.dwcdn.net/',datawrapper_codes_vorlage_overview$ID[r],'/" style="background:#808080; padding:4px 6px; border-radius:5px; color:#ffffff; font-weight:400; box-shadow:0px 0px 7px 2px rgba(0,0,0,0.07); cursor:pointer;" rel="nofollow noopener noreferrer">&nbsp;&nbsp;aperçu&nbsp;&nbsp;</a> &nbsp;
                         <a target="_self" href="https://datawrapper.dwcdn.net/',datawrapper_codes_vorlage_initiative$ID[r],'/" style="background:#808080; padding:4px 6px; border-radius:5px; color:#ffffff; font-weight:400; box-shadow:0px 0px 7px 2px rgba(0,0,0,0.07); cursor:pointer;" rel="nofollow noopener noreferrer">&nbsp;&nbsp;initiative&nbsp;&nbsp;</a> &nbsp;
                       <a target="_self" href="https://datawrapper.dwcdn.net/',datawrapper_codes_vorlage_gegenvorschlag$ID[r],'/" style="background:#808080; padding:4px 6px; border-radius:5px; color:#ffffff; font-weight:400; box-shadow:0px 0px 7px 2px rgba(0,0,0,0.07); cursor:pointer;" rel="nofollow noopener noreferrer"> contre-proposition</a> &nbsp;
-                      <a target="_self" href="https://datawrapper.dwcdn.net/',datawrapper_codes_vorlage_stichentscheid$ID[r],'/" style="background:#429ddd; padding:4px 6px; border-radius:5px; color:#ffffff; font-weight:400; box-shadow:0px 0px 7px 2px rgba(0,0,0,0.07); cursor:pointer;" rel="nofollow noopener noreferrer"> question subsidiaire<</a> &nbsp;'),
+                      <a target="_self" href="https://datawrapper.dwcdn.net/',datawrapper_codes_vorlage_stichentscheid$ID[r],'/" style="background:#429ddd; padding:4px 6px; border-radius:5px; color:#ffffff; font-weight:400; box-shadow:0px 0px 7px 2px rgba(0,0,0,0.07); cursor:pointer;" rel="nofollow noopener noreferrer"> question subsidiaire</a> &nbsp;'),
                       annotate=paste0("dernière mise à jour: ",format(Sys.time(),"%d.%m.%Y %Hh%M")))
         dw_publish_chart(datawrapper_codes_vorlage_stichentscheid$ID[r])
       }
