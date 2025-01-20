@@ -44,11 +44,11 @@ Stimmbeteiligung <- round2(results_national$stimmbeteiligungInProzent,1)
 Staende_Ja <- results_national$jaStaendeGanz+(results_national$jaStaendeHalb/2)
 Staende_Nein <- results_national$neinStaendeGanz+(results_national$neinStaendeHalb/2)
 
-#Ja_Anteil <- 55.2
-#Nein_Anteil <- 44.8
-#Stimmbeteiligung <- 52.4
-#Staende_Ja <- 19
-#Staende_Nein <- 4
+# Ja_Anteil <- 55.2
+# Nein_Anteil <- 44.8
+# Stimmbeteiligung <- 52.4
+# Staende_Ja <- 19
+# Staende_Nein <- 4
 
 #####DEUTSCH
 

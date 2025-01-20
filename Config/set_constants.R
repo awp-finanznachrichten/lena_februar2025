@@ -5,14 +5,14 @@ date_voting <- "20250209"
 
 #Save texts? Simulation? Default FALSE
 simulation <- TRUE
-save_texts <- TRUE
+save_texts <- FALSE
 
 #Output for special Einzugsgebiete? Default FALSE
 SPECIAL_AREAS <- FALSE
 
 #Mail
-#DEFAULT_MAILS <- "contentdevelopment@keystone-sda.ch, robot-notification@awp.ch"
-DEFAULT_MAILS <- "robot-notification@awp.ch"
+DEFAULT_MAILS <- "contentdevelopment@keystone-sda.ch, robot-notification@awp.ch"
+#DEFAULT_MAILS <- "robot-notification@awp.ch"
 
 #JSON Feeds
 FEED_NATIONAL <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20250209-eidgAbstimmung.json"
