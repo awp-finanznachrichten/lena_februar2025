@@ -74,7 +74,8 @@ if (is.na(Vorlagen_Info$Vorlage_d) == FALSE) {
                 data=list("external-data"=paste0("https://raw.githubusercontent.com/awp-finanznachrichten/lena_",
                                                  gsub("ä","ae",tolower(monate_de[month(voting_date)])),year(voting_date),
                                                  "/master/Output_Cantons/",kantonal_short[k],"_dw_",sprachen[1],".csv")),
-                visualize = list("mapView" = "crop"))
+                visualize = list("mapView" = "crop",
+                                 "hide-empty-regions" = TRUE))
   
   dw_publish_chart(data_chart$id)
   metadata_chart <- dw_retrieve_chart_metadata(data_chart$id)
