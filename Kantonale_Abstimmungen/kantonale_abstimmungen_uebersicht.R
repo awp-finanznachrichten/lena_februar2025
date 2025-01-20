@@ -80,9 +80,9 @@ if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
  
     uebersicht_text_de <- paste0("<b>",titel_all$title_de[1],": ",ifelse(Ja_Anteil > Nein_Anteil,"Ja","Nein"),"</b>")
     
-    uebersicht_text_fr <- paste0("<b>",titel_all$title_fr[1],": ",ifelse(Ja_Anteil > Nein_Anteil,"Oui","Non"),"</b>")
+    uebersicht_text_fr <- paste0("<b>",titel_all$title_fr[1],": ",ifelse(Ja_Anteil > Nein_Anteil,"oui","non"),"</b>")
     
-    uebersicht_text_it <- paste0("<b>",titel_all$title_it[1],": ",ifelse(Ja_Anteil > Nein_Anteil,"Sì","No"),"</b>")
+    uebersicht_text_it <- paste0("<b>",titel_all$title_it[1],": ",ifelse(Ja_Anteil > Nein_Anteil,"sì","no"),"</b>")
     
     if (is.na(titel_all$type[1]) == FALSE) {
     if (titel_all$type[1] == "casting_vote") {
