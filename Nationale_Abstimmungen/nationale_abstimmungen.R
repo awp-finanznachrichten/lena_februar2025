@@ -402,7 +402,13 @@ datawrapper_codes_overview <- datawrapper_codes %>%
 #DEUTSCH
 dw_data_to_chart(data_overview,datawrapper_codes_overview$ID[1])
 if (nrow(results_notavailable) == 0) {
-titel_de <- paste0("Die Abstimmungen vom ",day(voting_date),". ",monate_de[month(voting_date)]," ",year(voting_date)," in der Übersicht")  
+  
+if (length(vorlagen_short) > 1 ) {  
+titel_de <- paste0("Die Abstimmungen vom ",day(voting_date),". ",monate_de[month(voting_date)]," ",year(voting_date)," in der Übersicht") 
+} else {
+titel_de <- paste0("Die Abstimmung vom ",day(voting_date),". ",monate_de[month(voting_date)]," ",year(voting_date))   
+}  
+
 dw_edit_chart(datawrapper_codes_overview$ID[1],
               title = titel_de,
               intro = "")
@@ -414,7 +420,11 @@ dw_publish_chart(datawrapper_codes_overview$ID[1])
 #FRANZOESICH
 dw_data_to_chart(data_overview,datawrapper_codes_overview$ID[2])
 if (nrow(results_notavailable) == 0) {
+  if (length(vorlagen_short) > 1 ) {    
 titel_fr <- paste0("Les résultats des votes du ",day(voting_date)," ",monate_fr[month(voting_date)]," ",year(voting_date))
+} else {
+titel_fr <- paste0("Le résultat du vote du ",day(voting_date)," ",monate_fr[month(voting_date)]," ",year(voting_date))  
+}  
 dw_edit_chart(datawrapper_codes_overview$ID[2],
                 title = titel_fr,
                 intro = "")
@@ -426,7 +436,11 @@ dw_publish_chart(datawrapper_codes_overview$ID[2])
 #ITALIENISCH
 dw_data_to_chart(data_overview,datawrapper_codes_overview$ID[3])
 if (nrow(results_notavailable) == 0) {
+  if (length(vorlagen_short) > 1 ) {  
 titel_it <- paste0("I risultati delle votazioni del ",day(voting_date)," ",monate_it[month(voting_date)]," ",year(voting_date))
+} else {
+titel_it <- paste0("Il risultato della votazioni del ",day(voting_date)," ",monate_it[month(voting_date)]," ",year(voting_date))  
+}  
 dw_edit_chart(datawrapper_codes_overview$ID[3],
               title = titel_it,
               intro = "")
