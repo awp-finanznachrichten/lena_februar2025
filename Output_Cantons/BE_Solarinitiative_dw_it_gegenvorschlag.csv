@@ -1,331 +1,331 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_it","Text_it"
-301,52.9,52.9,47.1,"Aarberg (BE)",
-302,88.4,88.4,11.6,"Bargen (BE)",
-303,39.1,39.1,60.9,"Grossaffoltern (BE)",
-304,27.5,27.5,72.5,"Kallnach (BE)",
-305,84.1,84.1,15.9,"Kappelen (BE)",
-306,52.5,52.5,47.5,"Lyss (BE)",
-307,4.1,4.1,95.9,"Meikirch (BE)",
-309,30.3,30.3,69.7,"Radelfingen (BE)",
-310,45.5,45.5,54.5,"Rapperswil (BE)",
-311,54.6,54.6,45.4,"Schüpfen (BE)",
-312,41.4,41.4,58.6,"Seedorf (BE)",
-321,88.4,88.4,11.6,"Aarwangen (BE)",
-322,25.4,25.4,74.6,"Auswil (BE)",
-323,96.6,96.6,3.4,"Bannwil (BE)",
-324,89.1,89.1,10.9,"Bleienbach (BE)",
-325,54,54,46,"Busswil bei Melchnau (BE)",
-326,29,29,71,"Gondiswil (BE)",
-329,52.5,52.5,47.5,"Langenthal (BE)",
-331,67.8,67.8,32.2,"Lotzwil (BE)",
-332,96.3,96.3,3.7,"Madiswil (BE)",
-333,40.9,40.9,59.1,"Melchnau (BE)",
-335,39.7,39.7,60.3,"Oeschenbach (BE)",
-336,52.2,52.2,47.8,"Reisiswil (BE)",
-337,41.6,41.6,58.4,"Roggwil (BE)",
-338,29.3,29.3,70.7,"Rohrbach (BE)",
-339,52.9,52.9,47.1,"Rohrbachgraben (BE)",
-340,39.8,39.8,60.2,"Rütschelen (BE)",
-341,97.1,97.1,2.9,"Schwarzhäusern (BE)",
-342,78,78,22,"Thunstetten (BE)",
-344,58.2,58.2,41.8,"Ursenbach (BE)",
-345,44,44,56,"Wynau (BE)",
-351,69.2,69.2,30.8,"Berna (BE)",
-352,14.4,14.4,85.6,"Bolligen (BE)",
-353,3.8,3.8,96.2,"Bremgarten bei Bern (BE)",
-354,27.2,27.2,72.8,"Kirchlindach (BE)",
-355,57.5,57.5,42.5,"Köniz (BE)",
-356,47.5,47.5,52.5,"Muri bei Bern (BE)",
-357,42.7,42.7,57.3,"Oberbalm (BE)",
-358,48.5,48.5,51.5,"Stettlen (BE)",
-359,2.7,2.7,97.3,"Vechigen (BE)",
-360,36.6,36.6,63.4,"Wohlen bei Bern (BE)",
-361,59.5,59.5,40.5,"Zollikofen (BE)",
-362,47.6,47.6,52.4,"Ittigen (BE)",
-363,32.5,32.5,67.5,"Ostermundigen (BE)",
-371,61.2,61.2,38.8,"Bienne (BE)",
-372,73.3,73.3,26.7,"Evilard (BE)",
-381,96.4,96.4,3.6,"Arch (BE)",
-382,18.2,18.2,81.8,"Büetigen (BE)",
-383,69.2,69.2,30.8,"Büren an der Aare (BE)",
-385,64.2,64.2,35.8,"Diessbach bei Büren (BE)",
-386,61.7,61.7,38.3,"Dotzigen (BE)",
-387,42,42,58,"Longeau (BE)",
-388,73.1,73.1,26.9,"Leuzigen (BE)",
-390,44.9,44.9,55.1,"Meinisberg (BE)",
-391,31.6,31.6,68.4,"Oberwil bei Büren (BE)",
-392,85.4,85.4,14.6,"Perles (BE)",
-393,79.4,79.4,20.6,"Rüti bei Büren (BE)",
-394,47.7,47.7,52.3,"Wengi (BE)",
-401,58.9,58.9,41.1,"Aefligen (BE)",
-402,53.7,53.7,46.3,"Alchenstorf (BE)",
-403,70.2,70.2,29.8,"Bäriswil (BE)",
-404,48.5,48.5,51.5,"Berthoud (BE)",
-405,41.7,41.7,58.3,"Ersigen (BE)",
-406,61.6,61.6,38.4,"Hasle bei Burgdorf (BE)",
-407,73.7,73.7,26.3,"Heimiswil (BE)",
-409,45.4,45.4,54.6,"Hindelbank (BE)",
-410,42.3,42.3,57.7,"Höchstetten (BE)",
-411,69.8,69.8,30.2,"Kernenried (BE)",
-412,96.1,96.1,3.9,"Kirchberg (BE)",
-413,69,69,31,"Koppigen (BE)",
-414,99.7,99.7,0.3,"Krauchthal (BE)",
-415,28.6,28.6,71.4,"Lyssach (BE)",
-418,48.7,48.7,51.3,"Oberburg (BE)",
-420,36.3,36.3,63.7,"Rüdtligen-Alchenflüh (BE)",
-421,11,11,89,"Rumendingen (BE)",
-422,61.5,61.5,38.5,"Rüti bei Lyssach (BE)",
-423,73.8,73.8,26.2,"Willadingen (BE)",
-424,9.8,9.8,90.2,"Wynigen (BE)",
-431,86.9,86.9,13.1,"Corgémont (BE)",
-432,50.7,50.7,49.3,"Cormoret (BE)",
-433,8.4,8.4,91.6,"Cortébert (BE)",
-434,71.1,71.1,28.9,"Courtelary (BE)",
-435,85,85,15,"La Ferrière (BE)",
-437,13.1,13.1,86.9,"Mont-Tramelan (BE)",
-438,47,47,53,"Orvin (BE)",
-441,58,58,42,"Renan (BE)",
-442,60.9,60.9,39.1,"Romont (BE)",
-443,40.2,40.2,59.8,"Saint-Imier (BE)",
-444,47.8,47.8,52.2,"Sonceboz-Sombeval (BE)",
-445,32.3,32.3,67.7,"Sonvilier (BE)",
-446,51.7,51.7,48.3,"Tramelan (BE)",
-448,16,16,84,"Villeret (BE)",
-449,51.3,51.3,48.7,"Sauge (BE)",
-450,70.6,70.6,29.4,"Péry-La Heutte (BE)",
-491,54.6,54.6,45.4,"Brüttelen (BE)",
-492,54.5,54.5,45.5,"Cerlier (BE)",
-493,36,36,64,"Finsterhennen (BE)",
-494,11,11,89,"Gals (BE)",
-495,80.6,80.6,19.4,"Gampelen (BE)",
-496,71.7,71.7,28.3,"Anet (BE)",
-497,82.1,82.1,17.9,"Lüscherz (BE)",
-498,48.3,48.3,51.7,"Müntschemier (BE)",
-499,58.8,58.8,41.2,"Siselen (BE)",
-500,32.6,32.6,67.4,"Treiten (BE)",
-501,28.4,28.4,71.6,"Tschugg (BE)",
-502,69.6,69.6,30.4,"Vinelz (BE)",
-533,45.3,45.3,54.7,"Bätterkinden (BE)",
-538,44.7,44.7,55.3,"Fraubrunnen (BE)",
-540,54.6,54.6,45.4,"Jegenstorf (BE)",
-541,62.5,62.5,37.5,"Iffwil (BE)",
-543,46.9,46.9,53.1,"Mattstetten (BE)",
-544,77.7,77.7,22.3,"Moosseedorf (BE)",
-546,33.6,33.6,66.4,"Münchenbuchsee (BE)",
-551,53.6,53.6,46.4,"Urtenen-Schönbühl (BE)",
-552,35.3,35.3,64.7,"Utzenstorf (BE)",
-553,34.2,34.2,65.8,"Wiggiswil (BE)",
-554,62.8,62.8,37.2,"Wiler bei Utzenstorf (BE)",
-556,8.6,8.6,91.4,"Zielebach (BE)",
-557,82.3,82.3,17.7,"Zuzwil (BE)",
-561,65.8,65.8,34.2,"Adelboden (BE)",
-562,24,24,76,"Aeschi bei Spiez (BE)",
-563,41.6,41.6,58.4,"Frutigen (BE)",
-564,31.1,31.1,68.9,"Kandergrund (BE)",
-565,51.7,51.7,48.3,"Kandersteg (BE)",
-566,52,52,48,"Krattigen (BE)",
-567,44.6,44.6,55.4,"Reichenbach im Kandertal (BE)",
-571,48.9,48.9,51.1,"Beatenberg (BE)",
-572,55.8,55.8,44.2,"Bönigen (BE)",
-573,20.4,20.4,79.6,"Brienz (BE)",
-574,22.6,22.6,77.4,"Brienzwiler (BE)",
-575,17.4,17.4,82.6,"Därligen (BE)",
-576,68.4,68.4,31.6,"Grindelwald (BE)",
-577,40.6,40.6,59.4,"Gsteigwiler (BE)",
-578,74.4,74.4,25.6,"Gündlischwand (BE)",
-579,39.8,39.8,60.2,"Habkern (BE)",
-580,18.3,18.3,81.7,"Hofstetten bei Brienz (BE)",
-581,89.7,89.7,10.3,"Interlaken (BE)",
-582,58.6,58.6,41.4,"Iseltwald (BE)",
-584,85.3,85.3,14.7,"Lauterbrunnen (BE)",
-585,65.2,65.2,34.8,"Leissigen (BE)",
-586,53.1,53.1,46.9,"Lütschental (BE)",
-587,61.8,61.8,38.2,"Matten bei Interlaken (BE)",
-588,32.7,32.7,67.3,"Niederried bei Interlaken (BE)",
-589,71.8,71.8,28.2,"Oberried am Brienzersee (BE)",
-590,49.7,49.7,50.3,"Ringgenberg (BE)",
-591,48.5,48.5,51.5,"Saxeten (BE)",
-592,52.9,52.9,47.1,"Schwanden bei Brienz (BE)",
-593,31.6,31.6,68.4,"Unterseen (BE)",
-594,69.7,69.7,30.3,"Wilderswil (BE)",
-602,79.1,79.1,20.9,"Arni (BE)",
-603,20.3,20.3,79.7,"Biglen (BE)",
-605,31,31,69,"Bowil (BE)",
-606,13.7,13.7,86.3,"Brenzikofen (BE)",
-607,87.9,87.9,12.1,"Freimettigen (BE)",
-608,55.6,55.6,44.4,"Grosshöchstetten (BE)",
-609,53,53,47,"Häutligen (BE)",
-610,94.9,94.9,5.1,"Herbligen (BE)",
-611,5.6,5.6,94.4,"Kiesen (BE)",
-612,30.7,30.7,69.3,"Konolfingen (BE)",
-613,66,66,34,"Landiswil (BE)",
-614,29.7,29.7,70.3,"Linden (BE)",
-615,27.4,27.4,72.6,"Mirchel (BE)",
-616,93.1,93.1,6.9,"Münsingen (BE)",
-617,38.9,38.9,61.1,"Niederhünigen (BE)",
-619,42.8,42.8,57.2,"Oberdiessbach (BE)",
-620,15,15,85,"Oberthal (BE)",
-622,22.8,22.8,77.2,"Oppligen (BE)",
-623,35.3,35.3,64.7,"Rubigen (BE)",
-626,50.1,50.1,49.9,"Walkringen (BE)",
-627,12.1,12.1,87.9,"Worb (BE)",
-628,47,47,53,"Zäziwil (BE)",
-630,35.7,35.7,64.3,"Allmendingen (BE)",
-632,42.5,42.5,57.5,"Wichtrach (BE)",
-662,53.6,53.6,46.4,"Ferenbalm (BE)",
-663,29.3,29.3,70.7,"Frauenkappelen (BE)",
-665,56,56,44,"Gurbrü (BE)",
-666,0.1,0.1,99.9,"Kriechenwil (BE)",
-667,57.7,57.7,42.3,"Laupen (BE)",
-668,8.9,8.9,91.1,"Mühleberg (BE)",
-669,40.5,40.5,59.5,"Villars-les-Moines (BE)",
-670,50.7,50.7,49.3,"Neuenegg (BE)",
-671,22.5,22.5,77.5,"Wileroltigen (BE)",
-681,66.9,66.9,33.1,"Belprahon (BE)",
-683,43.1,43.1,56.9,"Champoz (BE)",
-687,62.1,62.1,37.9,"Corcelles (BE)",
-690,9.5,9.5,90.5,"Court (BE)",
-691,46.1,46.1,53.9,"Crémines (BE)",
-692,100,100,0,"Eschert (BE)",
-694,4.1,4.1,95.9,"Grandval (BE)",
-696,59.7,59.7,40.3,"Loveresse (BE)",
-700,53.2,53.2,46.8,"Moutier (BE)",
-701,49.9,49.9,50.1,"Perrefitte (BE)",
-703,34.5,34.5,65.5,"Reconvilier (BE)",
-704,18.1,18.1,81.9,"Roches (BE)",
-706,53.1,53.1,46.9,"Saicourt (BE)",
-707,47.9,47.9,52.1,"Saules (BE)",
-708,85.7,85.7,14.3,"La Scheulte (BE)",
-709,60.2,60.2,39.8,"Seehof (BE)",
-711,39.5,39.5,60.5,"Sorvilier (BE)",
-713,50.1,50.1,49.9,"Tavannes (BE)",
-715,17.4,17.4,82.6,"Rebévelier (BE)",
-716,63.9,63.9,36.1,"Petit-Val (BE)",
-717,65.5,65.5,34.5,"Valbirse (BE)",
-723,58.8,58.8,41.2,"La Neuveville (BE)",
-724,61.8,61.8,38.2,"Nods (BE)",
-726,50.2,50.2,49.8,"Plateau de Diesse (BE)",
-731,54.7,54.7,45.3,"Aegerten (BE)",
-732,72.7,72.7,27.3,"Bellmund (BE)",
-733,54.7,54.7,45.3,"Brügg (BE)",
-734,49.4,49.4,50.6,"Bühl (BE)",
-735,21,21,79,"Epsach (BE)",
-736,13,13,87,"Hagneck (BE)",
-737,29.3,29.3,70.7,"Hermrigen (BE)",
-738,59,59,41,"Jens (BE)",
-739,17.7,17.7,82.3,"Ipsach (BE)",
-740,44.9,44.9,55.1,"Gléresse (BE)",
-741,40.6,40.6,59.4,"Merzligen (BE)",
-742,40.4,40.4,59.6,"Mörigen (BE)",
-743,97,97,3,"Nidau (BE)",
-744,50,50,50,"Orpund (BE)",
-745,47.3,47.3,52.7,"Port (BE)",
-746,19,19,81,"Safnern (BE)",
-747,3.4,3.4,96.6,"Scheuren (BE)",
-748,64.6,64.6,35.4,"Schwadernau (BE)",
-749,53.8,53.8,46.2,"Studen (BE)",
-750,9.8,9.8,90.2,"Sutz-Lattrigen (BE)",
-751,96.5,96.5,3.5,"Täuffelen (BE)",
-754,66.9,66.9,33.1,"Walperswil (BE)",
-755,34.2,34.2,65.8,"Worben (BE)",
-756,16,16,84,"Douanne-Daucher (BE)",
-761,46.1,46.1,53.9,"Därstetten (BE)",
-762,83.7,83.7,16.3,"Diemtigen (BE)",
-763,29.4,29.4,70.6,"Erlenbach im Simmental (BE)",
-766,67.9,67.9,32.1,"Oberwil im Simmental (BE)",
-767,72.1,72.1,27.9,"Reutigen (BE)",
-768,96.1,96.1,3.9,"Spiez (BE)",
-769,24.2,24.2,75.8,"Wimmis (BE)",
-770,17.7,17.7,82.3,"Stocken-Höfen (BE)",
-782,78.9,78.9,21.1,"Guttannen (BE)",
-783,45.7,45.7,54.3,"Hasliberg (BE)",
-784,84.4,84.4,15.6,"Innertkirchen (BE)",
-785,60,60,40,"Meiringen (BE)",
-786,12.7,12.7,87.3,"Schattenhalb (BE)",
-791,67.3,67.3,32.7,"Boltigen (BE)",
-792,34.7,34.7,65.3,"Lenk (BE)",
-793,58.3,58.3,41.7,"Saint-Etienne (BE)",
-794,52.6,52.6,47.4,"Zweisimmen (BE)",
-841,73.4,73.4,26.6,"Gsteig (BE)",
-842,44.9,44.9,55.1,"Lauenen (BE)",
-843,57.5,57.5,42.5,"Gessenay (BE)",
-852,0.8,0.8,99.2,"Guggisberg (BE)",
-853,42,42,58,"Rüschegg (BE)",
-855,99.4,99.4,0.6,"Schwarzenburg (BE)",
-861,84,84,16,"Belp (BE)",
-863,35.7,35.7,64.3,"Burgistein (BE)",
-866,3,3,97,"Gerzensee (BE)",
-867,48.1,48.1,51.9,"Gurzelen (BE)",
-868,44.7,44.7,55.3,"Jaberg (BE)",
-869,42.2,42.2,57.8,"Kaufdorf (BE)",
-870,91.8,91.8,8.2,"Kehrsatz (BE)",
-872,21.4,21.4,78.6,"Kirchdorf (BE)",
-879,24.9,24.9,75.1,"Riggisberg (BE)",
-880,16.6,16.6,83.4,"Rüeggisberg (BE)",
-883,53.6,53.6,46.4,"Seftigen (BE)",
-884,33.5,33.5,66.5,"Toffen (BE)",
-885,5.7,5.7,94.3,"Uttigen (BE)",
-886,10,10,90,"Wattenwil (BE)",
-888,62.1,62.1,37.9,"Wald (BE)",
-889,76.9,76.9,23.1,"Thurnen (BE)",
-901,47.9,47.9,52.1,"Eggiwil (BE)",
-902,39.3,39.3,60.7,"Langnau im Emmental (BE)",
-903,57.1,57.1,42.9,"Lauperswil (BE)",
-904,71.3,71.3,28.7,"Röthenbach im Emmental (BE)",
-905,46.4,46.4,53.6,"Rüderswil (BE)",
-906,47.6,47.6,52.4,"Schangnau (BE)",
-907,49.1,49.1,50.9,"Signau (BE)",
-908,1.2,1.2,98.8,"Trub (BE)",
-909,88.4,88.4,11.6,"Trubschachen (BE)",
-921,67.3,67.3,32.7,"Amsoldingen (BE)",
-922,12.5,12.5,87.5,"Blumenstein (BE)",
-923,44.2,44.2,55.8,"Buchholterberg (BE)",
-924,46.7,46.7,53.3,"Eriz (BE)",
-925,30.4,30.4,69.6,"Fahrni (BE)",
-927,56.3,56.3,43.7,"Heiligenschwendi (BE)",
-928,69,69,31,"Heimberg (BE)",
-929,34.4,34.4,65.6,"Hilterfingen (BE)",
-931,47.2,47.2,52.8,"Homberg (BE)",
-932,28.6,28.6,71.4,"Horrenbach-Buchen (BE)",
-934,79.3,79.3,20.7,"Oberhofen am Thunersee (BE)",
-935,18.7,18.7,81.3,"Oberlangenegg (BE)",
-936,1.9,1.9,98.1,"Pohlern (BE)",
-938,80.5,80.5,19.5,"Sigriswil (BE)",
-939,47.3,47.3,52.7,"Steffisburg (BE)",
-940,88.1,88.1,11.9,"Teuffenthal (BE)",
-941,72.7,72.7,27.3,"Thierachern (BE)",
-942,33.4,33.4,66.6,"Thoune (BE)",
-943,56,56,44,"Uebeschi (BE)",
-944,56.9,56.9,43.1,"Uetendorf (BE)",
-945,41.8,41.8,58.2,"Unterlangenegg (BE)",
-946,48.1,48.1,51.9,"Wachseldorn (BE)",
-948,93.3,93.3,6.7,"Forst-Längenbühl (BE)",
-951,88.4,88.4,11.6,"Affoltern im Emmental (BE)",
-952,44.7,44.7,55.3,"Dürrenroth (BE)",
-953,82.4,82.4,17.6,"Eriswil (BE)",
-954,61.2,61.2,38.8,"Huttwil (BE)",
-955,80.1,80.1,19.9,"Lützelflüh (BE)",
-956,94.8,94.8,5.2,"Rüegsau (BE)",
-957,52,52,48,"Sumiswald (BE)",
-958,36.9,36.9,63.1,"Trachselwald (BE)",
-959,31.5,31.5,68.5,"Walterswil (BE)",
-960,72.9,72.9,27.1,"Wyssachen (BE)",
-971,59.2,59.2,40.8,"Attiswil (BE)",
-972,47.6,47.6,52.4,"Berken (BE)",
-973,41.8,41.8,58.2,"Bettenhausen (BE)",
-975,75,75,25,"Farnern (BE)",
-976,16.5,16.5,83.5,"Graben (BE)",
-977,61,61,39,"Heimenhausen (BE)",
-979,54.9,54.9,45.1,"Herzogenbuchsee (BE)",
-980,79,79,21,"Inkwil (BE)",
-981,57.6,57.6,42.4,"Niederbipp (BE)",
-982,74.7,74.7,25.3,"Niederönz (BE)",
-983,74.6,74.6,25.4,"Oberbipp (BE)",
-985,73.3,73.3,26.7,"Ochlenberg (BE)",
-987,33.9,33.9,66.1,"Rumisberg (BE)",
-988,52.3,52.3,47.7,"Seeberg (BE)",
-989,10.1,10.1,89.9,"Thörigen (BE)",
-990,21.7,21.7,78.3,"Walliswil bei Niederbipp (BE)",
-991,33,33,67,"Walliswil bei Wangen (BE)",
-992,47,47,53,"Wangen an der Aare (BE)",
-995,35.3,35.3,64.7,"Wiedlisbach (BE)",
+301,50,0,0,"Aarberg (BE)","I resultati di questa comune non sono ancora noti."
+302,50,0,0,"Bargen (BE)","I resultati di questa comune non sono ancora noti."
+303,50,0,0,"Grossaffoltern (BE)","I resultati di questa comune non sono ancora noti."
+304,50,0,0,"Kallnach (BE)","I resultati di questa comune non sono ancora noti."
+305,50,0,0,"Kappelen (BE)","I resultati di questa comune non sono ancora noti."
+306,50,0,0,"Lyss (BE)","I resultati di questa comune non sono ancora noti."
+307,50,0,0,"Meikirch (BE)","I resultati di questa comune non sono ancora noti."
+309,50,0,0,"Radelfingen (BE)","I resultati di questa comune non sono ancora noti."
+310,50,0,0,"Rapperswil (BE)","I resultati di questa comune non sono ancora noti."
+311,50,0,0,"Schüpfen (BE)","I resultati di questa comune non sono ancora noti."
+312,50,0,0,"Seedorf (BE)","I resultati di questa comune non sono ancora noti."
+321,50,0,0,"Aarwangen (BE)","I resultati di questa comune non sono ancora noti."
+322,50,0,0,"Auswil (BE)","I resultati di questa comune non sono ancora noti."
+323,50,0,0,"Bannwil (BE)","I resultati di questa comune non sono ancora noti."
+324,50,0,0,"Bleienbach (BE)","I resultati di questa comune non sono ancora noti."
+325,50,0,0,"Busswil bei Melchnau (BE)","I resultati di questa comune non sono ancora noti."
+326,50,0,0,"Gondiswil (BE)","I resultati di questa comune non sono ancora noti."
+329,50,0,0,"Langenthal (BE)","I resultati di questa comune non sono ancora noti."
+331,50,0,0,"Lotzwil (BE)","I resultati di questa comune non sono ancora noti."
+332,50,0,0,"Madiswil (BE)","I resultati di questa comune non sono ancora noti."
+333,50,0,0,"Melchnau (BE)","I resultati di questa comune non sono ancora noti."
+335,50,0,0,"Oeschenbach (BE)","I resultati di questa comune non sono ancora noti."
+336,50,0,0,"Reisiswil (BE)","I resultati di questa comune non sono ancora noti."
+337,50,0,0,"Roggwil (BE)","I resultati di questa comune non sono ancora noti."
+338,50,0,0,"Rohrbach (BE)","I resultati di questa comune non sono ancora noti."
+339,50,0,0,"Rohrbachgraben (BE)","I resultati di questa comune non sono ancora noti."
+340,50,0,0,"Rütschelen (BE)","I resultati di questa comune non sono ancora noti."
+341,50,0,0,"Schwarzhäusern (BE)","I resultati di questa comune non sono ancora noti."
+342,50,0,0,"Thunstetten (BE)","I resultati di questa comune non sono ancora noti."
+344,50,0,0,"Ursenbach (BE)","I resultati di questa comune non sono ancora noti."
+345,50,0,0,"Wynau (BE)","I resultati di questa comune non sono ancora noti."
+351,50,0,0,"Berna (BE)","I resultati di questa comune non sono ancora noti."
+352,50,0,0,"Bolligen (BE)","I resultati di questa comune non sono ancora noti."
+353,50,0,0,"Bremgarten bei Bern (BE)","I resultati di questa comune non sono ancora noti."
+354,50,0,0,"Kirchlindach (BE)","I resultati di questa comune non sono ancora noti."
+355,50,0,0,"Köniz (BE)","I resultati di questa comune non sono ancora noti."
+356,50,0,0,"Muri bei Bern (BE)","I resultati di questa comune non sono ancora noti."
+357,50,0,0,"Oberbalm (BE)","I resultati di questa comune non sono ancora noti."
+358,50,0,0,"Stettlen (BE)","I resultati di questa comune non sono ancora noti."
+359,50,0,0,"Vechigen (BE)","I resultati di questa comune non sono ancora noti."
+360,50,0,0,"Wohlen bei Bern (BE)","I resultati di questa comune non sono ancora noti."
+361,50,0,0,"Zollikofen (BE)","I resultati di questa comune non sono ancora noti."
+362,50,0,0,"Ittigen (BE)","I resultati di questa comune non sono ancora noti."
+363,50,0,0,"Ostermundigen (BE)","I resultati di questa comune non sono ancora noti."
+371,50,0,0,"Bienne (BE)","I resultati di questa comune non sono ancora noti."
+372,50,0,0,"Evilard (BE)","I resultati di questa comune non sono ancora noti."
+381,50,0,0,"Arch (BE)","I resultati di questa comune non sono ancora noti."
+382,50,0,0,"Büetigen (BE)","I resultati di questa comune non sono ancora noti."
+383,50,0,0,"Büren an der Aare (BE)","I resultati di questa comune non sono ancora noti."
+385,50,0,0,"Diessbach bei Büren (BE)","I resultati di questa comune non sono ancora noti."
+386,50,0,0,"Dotzigen (BE)","I resultati di questa comune non sono ancora noti."
+387,50,0,0,"Longeau (BE)","I resultati di questa comune non sono ancora noti."
+388,50,0,0,"Leuzigen (BE)","I resultati di questa comune non sono ancora noti."
+390,50,0,0,"Meinisberg (BE)","I resultati di questa comune non sono ancora noti."
+391,50,0,0,"Oberwil bei Büren (BE)","I resultati di questa comune non sono ancora noti."
+392,50,0,0,"Perles (BE)","I resultati di questa comune non sono ancora noti."
+393,50,0,0,"Rüti bei Büren (BE)","I resultati di questa comune non sono ancora noti."
+394,50,0,0,"Wengi (BE)","I resultati di questa comune non sono ancora noti."
+401,50,0,0,"Aefligen (BE)","I resultati di questa comune non sono ancora noti."
+402,50,0,0,"Alchenstorf (BE)","I resultati di questa comune non sono ancora noti."
+403,50,0,0,"Bäriswil (BE)","I resultati di questa comune non sono ancora noti."
+404,50,0,0,"Berthoud (BE)","I resultati di questa comune non sono ancora noti."
+405,50,0,0,"Ersigen (BE)","I resultati di questa comune non sono ancora noti."
+406,50,0,0,"Hasle bei Burgdorf (BE)","I resultati di questa comune non sono ancora noti."
+407,50,0,0,"Heimiswil (BE)","I resultati di questa comune non sono ancora noti."
+409,50,0,0,"Hindelbank (BE)","I resultati di questa comune non sono ancora noti."
+410,50,0,0,"Höchstetten (BE)","I resultati di questa comune non sono ancora noti."
+411,50,0,0,"Kernenried (BE)","I resultati di questa comune non sono ancora noti."
+412,50,0,0,"Kirchberg (BE)","I resultati di questa comune non sono ancora noti."
+413,50,0,0,"Koppigen (BE)","I resultati di questa comune non sono ancora noti."
+414,50,0,0,"Krauchthal (BE)","I resultati di questa comune non sono ancora noti."
+415,50,0,0,"Lyssach (BE)","I resultati di questa comune non sono ancora noti."
+418,50,0,0,"Oberburg (BE)","I resultati di questa comune non sono ancora noti."
+420,50,0,0,"Rüdtligen-Alchenflüh (BE)","I resultati di questa comune non sono ancora noti."
+421,50,0,0,"Rumendingen (BE)","I resultati di questa comune non sono ancora noti."
+422,50,0,0,"Rüti bei Lyssach (BE)","I resultati di questa comune non sono ancora noti."
+423,50,0,0,"Willadingen (BE)","I resultati di questa comune non sono ancora noti."
+424,50,0,0,"Wynigen (BE)","I resultati di questa comune non sono ancora noti."
+431,50,0,0,"Corgémont (BE)","I resultati di questa comune non sono ancora noti."
+432,50,0,0,"Cormoret (BE)","I resultati di questa comune non sono ancora noti."
+433,50,0,0,"Cortébert (BE)","I resultati di questa comune non sono ancora noti."
+434,50,0,0,"Courtelary (BE)","I resultati di questa comune non sono ancora noti."
+435,50,0,0,"La Ferrière (BE)","I resultati di questa comune non sono ancora noti."
+437,50,0,0,"Mont-Tramelan (BE)","I resultati di questa comune non sono ancora noti."
+438,50,0,0,"Orvin (BE)","I resultati di questa comune non sono ancora noti."
+441,50,0,0,"Renan (BE)","I resultati di questa comune non sono ancora noti."
+442,50,0,0,"Romont (BE)","I resultati di questa comune non sono ancora noti."
+443,50,0,0,"Saint-Imier (BE)","I resultati di questa comune non sono ancora noti."
+444,50,0,0,"Sonceboz-Sombeval (BE)","I resultati di questa comune non sono ancora noti."
+445,50,0,0,"Sonvilier (BE)","I resultati di questa comune non sono ancora noti."
+446,50,0,0,"Tramelan (BE)","I resultati di questa comune non sono ancora noti."
+448,50,0,0,"Villeret (BE)","I resultati di questa comune non sono ancora noti."
+449,50,0,0,"Sauge (BE)","I resultati di questa comune non sono ancora noti."
+450,50,0,0,"Péry-La Heutte (BE)","I resultati di questa comune non sono ancora noti."
+491,50,0,0,"Brüttelen (BE)","I resultati di questa comune non sono ancora noti."
+492,50,0,0,"Cerlier (BE)","I resultati di questa comune non sono ancora noti."
+493,50,0,0,"Finsterhennen (BE)","I resultati di questa comune non sono ancora noti."
+494,50,0,0,"Gals (BE)","I resultati di questa comune non sono ancora noti."
+495,50,0,0,"Gampelen (BE)","I resultati di questa comune non sono ancora noti."
+496,50,0,0,"Anet (BE)","I resultati di questa comune non sono ancora noti."
+497,50,0,0,"Lüscherz (BE)","I resultati di questa comune non sono ancora noti."
+498,50,0,0,"Müntschemier (BE)","I resultati di questa comune non sono ancora noti."
+499,50,0,0,"Siselen (BE)","I resultati di questa comune non sono ancora noti."
+500,50,0,0,"Treiten (BE)","I resultati di questa comune non sono ancora noti."
+501,50,0,0,"Tschugg (BE)","I resultati di questa comune non sono ancora noti."
+502,50,0,0,"Vinelz (BE)","I resultati di questa comune non sono ancora noti."
+533,50,0,0,"Bätterkinden (BE)","I resultati di questa comune non sono ancora noti."
+538,50,0,0,"Fraubrunnen (BE)","I resultati di questa comune non sono ancora noti."
+540,50,0,0,"Jegenstorf (BE)","I resultati di questa comune non sono ancora noti."
+541,50,0,0,"Iffwil (BE)","I resultati di questa comune non sono ancora noti."
+543,50,0,0,"Mattstetten (BE)","I resultati di questa comune non sono ancora noti."
+544,50,0,0,"Moosseedorf (BE)","I resultati di questa comune non sono ancora noti."
+546,50,0,0,"Münchenbuchsee (BE)","I resultati di questa comune non sono ancora noti."
+551,50,0,0,"Urtenen-Schönbühl (BE)","I resultati di questa comune non sono ancora noti."
+552,50,0,0,"Utzenstorf (BE)","I resultati di questa comune non sono ancora noti."
+553,50,0,0,"Wiggiswil (BE)","I resultati di questa comune non sono ancora noti."
+554,50,0,0,"Wiler bei Utzenstorf (BE)","I resultati di questa comune non sono ancora noti."
+556,50,0,0,"Zielebach (BE)","I resultati di questa comune non sono ancora noti."
+557,50,0,0,"Zuzwil (BE)","I resultati di questa comune non sono ancora noti."
+561,50,0,0,"Adelboden (BE)","I resultati di questa comune non sono ancora noti."
+562,50,0,0,"Aeschi bei Spiez (BE)","I resultati di questa comune non sono ancora noti."
+563,50,0,0,"Frutigen (BE)","I resultati di questa comune non sono ancora noti."
+564,50,0,0,"Kandergrund (BE)","I resultati di questa comune non sono ancora noti."
+565,50,0,0,"Kandersteg (BE)","I resultati di questa comune non sono ancora noti."
+566,50,0,0,"Krattigen (BE)","I resultati di questa comune non sono ancora noti."
+567,50,0,0,"Reichenbach im Kandertal (BE)","I resultati di questa comune non sono ancora noti."
+571,50,0,0,"Beatenberg (BE)","I resultati di questa comune non sono ancora noti."
+572,50,0,0,"Bönigen (BE)","I resultati di questa comune non sono ancora noti."
+573,50,0,0,"Brienz (BE)","I resultati di questa comune non sono ancora noti."
+574,50,0,0,"Brienzwiler (BE)","I resultati di questa comune non sono ancora noti."
+575,50,0,0,"Därligen (BE)","I resultati di questa comune non sono ancora noti."
+576,50,0,0,"Grindelwald (BE)","I resultati di questa comune non sono ancora noti."
+577,50,0,0,"Gsteigwiler (BE)","I resultati di questa comune non sono ancora noti."
+578,50,0,0,"Gündlischwand (BE)","I resultati di questa comune non sono ancora noti."
+579,50,0,0,"Habkern (BE)","I resultati di questa comune non sono ancora noti."
+580,50,0,0,"Hofstetten bei Brienz (BE)","I resultati di questa comune non sono ancora noti."
+581,50,0,0,"Interlaken (BE)","I resultati di questa comune non sono ancora noti."
+582,50,0,0,"Iseltwald (BE)","I resultati di questa comune non sono ancora noti."
+584,50,0,0,"Lauterbrunnen (BE)","I resultati di questa comune non sono ancora noti."
+585,50,0,0,"Leissigen (BE)","I resultati di questa comune non sono ancora noti."
+586,50,0,0,"Lütschental (BE)","I resultati di questa comune non sono ancora noti."
+587,50,0,0,"Matten bei Interlaken (BE)","I resultati di questa comune non sono ancora noti."
+588,50,0,0,"Niederried bei Interlaken (BE)","I resultati di questa comune non sono ancora noti."
+589,50,0,0,"Oberried am Brienzersee (BE)","I resultati di questa comune non sono ancora noti."
+590,50,0,0,"Ringgenberg (BE)","I resultati di questa comune non sono ancora noti."
+591,50,0,0,"Saxeten (BE)","I resultati di questa comune non sono ancora noti."
+592,50,0,0,"Schwanden bei Brienz (BE)","I resultati di questa comune non sono ancora noti."
+593,50,0,0,"Unterseen (BE)","I resultati di questa comune non sono ancora noti."
+594,50,0,0,"Wilderswil (BE)","I resultati di questa comune non sono ancora noti."
+602,50,0,0,"Arni (BE)","I resultati di questa comune non sono ancora noti."
+603,50,0,0,"Biglen (BE)","I resultati di questa comune non sono ancora noti."
+605,50,0,0,"Bowil (BE)","I resultati di questa comune non sono ancora noti."
+606,50,0,0,"Brenzikofen (BE)","I resultati di questa comune non sono ancora noti."
+607,50,0,0,"Freimettigen (BE)","I resultati di questa comune non sono ancora noti."
+608,50,0,0,"Grosshöchstetten (BE)","I resultati di questa comune non sono ancora noti."
+609,50,0,0,"Häutligen (BE)","I resultati di questa comune non sono ancora noti."
+610,50,0,0,"Herbligen (BE)","I resultati di questa comune non sono ancora noti."
+611,50,0,0,"Kiesen (BE)","I resultati di questa comune non sono ancora noti."
+612,50,0,0,"Konolfingen (BE)","I resultati di questa comune non sono ancora noti."
+613,50,0,0,"Landiswil (BE)","I resultati di questa comune non sono ancora noti."
+614,50,0,0,"Linden (BE)","I resultati di questa comune non sono ancora noti."
+615,50,0,0,"Mirchel (BE)","I resultati di questa comune non sono ancora noti."
+616,50,0,0,"Münsingen (BE)","I resultati di questa comune non sono ancora noti."
+617,50,0,0,"Niederhünigen (BE)","I resultati di questa comune non sono ancora noti."
+619,50,0,0,"Oberdiessbach (BE)","I resultati di questa comune non sono ancora noti."
+620,50,0,0,"Oberthal (BE)","I resultati di questa comune non sono ancora noti."
+622,50,0,0,"Oppligen (BE)","I resultati di questa comune non sono ancora noti."
+623,50,0,0,"Rubigen (BE)","I resultati di questa comune non sono ancora noti."
+626,50,0,0,"Walkringen (BE)","I resultati di questa comune non sono ancora noti."
+627,50,0,0,"Worb (BE)","I resultati di questa comune non sono ancora noti."
+628,50,0,0,"Zäziwil (BE)","I resultati di questa comune non sono ancora noti."
+630,50,0,0,"Allmendingen (BE)","I resultati di questa comune non sono ancora noti."
+632,50,0,0,"Wichtrach (BE)","I resultati di questa comune non sono ancora noti."
+662,50,0,0,"Ferenbalm (BE)","I resultati di questa comune non sono ancora noti."
+663,50,0,0,"Frauenkappelen (BE)","I resultati di questa comune non sono ancora noti."
+665,50,0,0,"Gurbrü (BE)","I resultati di questa comune non sono ancora noti."
+666,50,0,0,"Kriechenwil (BE)","I resultati di questa comune non sono ancora noti."
+667,50,0,0,"Laupen (BE)","I resultati di questa comune non sono ancora noti."
+668,50,0,0,"Mühleberg (BE)","I resultati di questa comune non sono ancora noti."
+669,50,0,0,"Villars-les-Moines (BE)","I resultati di questa comune non sono ancora noti."
+670,50,0,0,"Neuenegg (BE)","I resultati di questa comune non sono ancora noti."
+671,50,0,0,"Wileroltigen (BE)","I resultati di questa comune non sono ancora noti."
+681,50,0,0,"Belprahon (BE)","I resultati di questa comune non sono ancora noti."
+683,50,0,0,"Champoz (BE)","I resultati di questa comune non sono ancora noti."
+687,50,0,0,"Corcelles (BE)","I resultati di questa comune non sono ancora noti."
+690,50,0,0,"Court (BE)","I resultati di questa comune non sono ancora noti."
+691,50,0,0,"Crémines (BE)","I resultati di questa comune non sono ancora noti."
+692,50,0,0,"Eschert (BE)","I resultati di questa comune non sono ancora noti."
+694,50,0,0,"Grandval (BE)","I resultati di questa comune non sono ancora noti."
+696,50,0,0,"Loveresse (BE)","I resultati di questa comune non sono ancora noti."
+700,50,0,0,"Moutier (BE)","I resultati di questa comune non sono ancora noti."
+701,50,0,0,"Perrefitte (BE)","I resultati di questa comune non sono ancora noti."
+703,50,0,0,"Reconvilier (BE)","I resultati di questa comune non sono ancora noti."
+704,50,0,0,"Roches (BE)","I resultati di questa comune non sono ancora noti."
+706,50,0,0,"Saicourt (BE)","I resultati di questa comune non sono ancora noti."
+707,50,0,0,"Saules (BE)","I resultati di questa comune non sono ancora noti."
+708,50,0,0,"La Scheulte (BE)","I resultati di questa comune non sono ancora noti."
+709,50,0,0,"Seehof (BE)","I resultati di questa comune non sono ancora noti."
+711,50,0,0,"Sorvilier (BE)","I resultati di questa comune non sono ancora noti."
+713,50,0,0,"Tavannes (BE)","I resultati di questa comune non sono ancora noti."
+715,50,0,0,"Rebévelier (BE)","I resultati di questa comune non sono ancora noti."
+716,50,0,0,"Petit-Val (BE)","I resultati di questa comune non sono ancora noti."
+717,50,0,0,"Valbirse (BE)","I resultati di questa comune non sono ancora noti."
+723,50,0,0,"La Neuveville (BE)","I resultati di questa comune non sono ancora noti."
+724,50,0,0,"Nods (BE)","I resultati di questa comune non sono ancora noti."
+726,50,0,0,"Plateau de Diesse (BE)","I resultati di questa comune non sono ancora noti."
+731,50,0,0,"Aegerten (BE)","I resultati di questa comune non sono ancora noti."
+732,50,0,0,"Bellmund (BE)","I resultati di questa comune non sono ancora noti."
+733,50,0,0,"Brügg (BE)","I resultati di questa comune non sono ancora noti."
+734,50,0,0,"Bühl (BE)","I resultati di questa comune non sono ancora noti."
+735,50,0,0,"Epsach (BE)","I resultati di questa comune non sono ancora noti."
+736,50,0,0,"Hagneck (BE)","I resultati di questa comune non sono ancora noti."
+737,50,0,0,"Hermrigen (BE)","I resultati di questa comune non sono ancora noti."
+738,50,0,0,"Jens (BE)","I resultati di questa comune non sono ancora noti."
+739,50,0,0,"Ipsach (BE)","I resultati di questa comune non sono ancora noti."
+740,50,0,0,"Gléresse (BE)","I resultati di questa comune non sono ancora noti."
+741,50,0,0,"Merzligen (BE)","I resultati di questa comune non sono ancora noti."
+742,50,0,0,"Mörigen (BE)","I resultati di questa comune non sono ancora noti."
+743,50,0,0,"Nidau (BE)","I resultati di questa comune non sono ancora noti."
+744,50,0,0,"Orpund (BE)","I resultati di questa comune non sono ancora noti."
+745,50,0,0,"Port (BE)","I resultati di questa comune non sono ancora noti."
+746,50,0,0,"Safnern (BE)","I resultati di questa comune non sono ancora noti."
+747,50,0,0,"Scheuren (BE)","I resultati di questa comune non sono ancora noti."
+748,50,0,0,"Schwadernau (BE)","I resultati di questa comune non sono ancora noti."
+749,50,0,0,"Studen (BE)","I resultati di questa comune non sono ancora noti."
+750,50,0,0,"Sutz-Lattrigen (BE)","I resultati di questa comune non sono ancora noti."
+751,50,0,0,"Täuffelen (BE)","I resultati di questa comune non sono ancora noti."
+754,50,0,0,"Walperswil (BE)","I resultati di questa comune non sono ancora noti."
+755,50,0,0,"Worben (BE)","I resultati di questa comune non sono ancora noti."
+756,50,0,0,"Douanne-Daucher (BE)","I resultati di questa comune non sono ancora noti."
+761,50,0,0,"Därstetten (BE)","I resultati di questa comune non sono ancora noti."
+762,50,0,0,"Diemtigen (BE)","I resultati di questa comune non sono ancora noti."
+763,50,0,0,"Erlenbach im Simmental (BE)","I resultati di questa comune non sono ancora noti."
+766,50,0,0,"Oberwil im Simmental (BE)","I resultati di questa comune non sono ancora noti."
+767,50,0,0,"Reutigen (BE)","I resultati di questa comune non sono ancora noti."
+768,50,0,0,"Spiez (BE)","I resultati di questa comune non sono ancora noti."
+769,50,0,0,"Wimmis (BE)","I resultati di questa comune non sono ancora noti."
+770,50,0,0,"Stocken-Höfen (BE)","I resultati di questa comune non sono ancora noti."
+782,50,0,0,"Guttannen (BE)","I resultati di questa comune non sono ancora noti."
+783,50,0,0,"Hasliberg (BE)","I resultati di questa comune non sono ancora noti."
+784,50,0,0,"Innertkirchen (BE)","I resultati di questa comune non sono ancora noti."
+785,50,0,0,"Meiringen (BE)","I resultati di questa comune non sono ancora noti."
+786,50,0,0,"Schattenhalb (BE)","I resultati di questa comune non sono ancora noti."
+791,50,0,0,"Boltigen (BE)","I resultati di questa comune non sono ancora noti."
+792,50,0,0,"Lenk (BE)","I resultati di questa comune non sono ancora noti."
+793,50,0,0,"Saint-Etienne (BE)","I resultati di questa comune non sono ancora noti."
+794,50,0,0,"Zweisimmen (BE)","I resultati di questa comune non sono ancora noti."
+841,50,0,0,"Gsteig (BE)","I resultati di questa comune non sono ancora noti."
+842,50,0,0,"Lauenen (BE)","I resultati di questa comune non sono ancora noti."
+843,50,0,0,"Gessenay (BE)","I resultati di questa comune non sono ancora noti."
+852,50,0,0,"Guggisberg (BE)","I resultati di questa comune non sono ancora noti."
+853,50,0,0,"Rüschegg (BE)","I resultati di questa comune non sono ancora noti."
+855,50,0,0,"Schwarzenburg (BE)","I resultati di questa comune non sono ancora noti."
+861,50,0,0,"Belp (BE)","I resultati di questa comune non sono ancora noti."
+863,50,0,0,"Burgistein (BE)","I resultati di questa comune non sono ancora noti."
+866,50,0,0,"Gerzensee (BE)","I resultati di questa comune non sono ancora noti."
+867,50,0,0,"Gurzelen (BE)","I resultati di questa comune non sono ancora noti."
+868,50,0,0,"Jaberg (BE)","I resultati di questa comune non sono ancora noti."
+869,50,0,0,"Kaufdorf (BE)","I resultati di questa comune non sono ancora noti."
+870,50,0,0,"Kehrsatz (BE)","I resultati di questa comune non sono ancora noti."
+872,50,0,0,"Kirchdorf (BE)","I resultati di questa comune non sono ancora noti."
+879,50,0,0,"Riggisberg (BE)","I resultati di questa comune non sono ancora noti."
+880,50,0,0,"Rüeggisberg (BE)","I resultati di questa comune non sono ancora noti."
+883,50,0,0,"Seftigen (BE)","I resultati di questa comune non sono ancora noti."
+884,50,0,0,"Toffen (BE)","I resultati di questa comune non sono ancora noti."
+885,50,0,0,"Uttigen (BE)","I resultati di questa comune non sono ancora noti."
+886,50,0,0,"Wattenwil (BE)","I resultati di questa comune non sono ancora noti."
+888,50,0,0,"Wald (BE)","I resultati di questa comune non sono ancora noti."
+889,50,0,0,"Thurnen (BE)","I resultati di questa comune non sono ancora noti."
+901,50,0,0,"Eggiwil (BE)","I resultati di questa comune non sono ancora noti."
+902,50,0,0,"Langnau im Emmental (BE)","I resultati di questa comune non sono ancora noti."
+903,50,0,0,"Lauperswil (BE)","I resultati di questa comune non sono ancora noti."
+904,50,0,0,"Röthenbach im Emmental (BE)","I resultati di questa comune non sono ancora noti."
+905,50,0,0,"Rüderswil (BE)","I resultati di questa comune non sono ancora noti."
+906,50,0,0,"Schangnau (BE)","I resultati di questa comune non sono ancora noti."
+907,50,0,0,"Signau (BE)","I resultati di questa comune non sono ancora noti."
+908,50,0,0,"Trub (BE)","I resultati di questa comune non sono ancora noti."
+909,50,0,0,"Trubschachen (BE)","I resultati di questa comune non sono ancora noti."
+921,50,0,0,"Amsoldingen (BE)","I resultati di questa comune non sono ancora noti."
+922,50,0,0,"Blumenstein (BE)","I resultati di questa comune non sono ancora noti."
+923,50,0,0,"Buchholterberg (BE)","I resultati di questa comune non sono ancora noti."
+924,50,0,0,"Eriz (BE)","I resultati di questa comune non sono ancora noti."
+925,50,0,0,"Fahrni (BE)","I resultati di questa comune non sono ancora noti."
+927,50,0,0,"Heiligenschwendi (BE)","I resultati di questa comune non sono ancora noti."
+928,50,0,0,"Heimberg (BE)","I resultati di questa comune non sono ancora noti."
+929,50,0,0,"Hilterfingen (BE)","I resultati di questa comune non sono ancora noti."
+931,50,0,0,"Homberg (BE)","I resultati di questa comune non sono ancora noti."
+932,50,0,0,"Horrenbach-Buchen (BE)","I resultati di questa comune non sono ancora noti."
+934,50,0,0,"Oberhofen am Thunersee (BE)","I resultati di questa comune non sono ancora noti."
+935,50,0,0,"Oberlangenegg (BE)","I resultati di questa comune non sono ancora noti."
+936,50,0,0,"Pohlern (BE)","I resultati di questa comune non sono ancora noti."
+938,50,0,0,"Sigriswil (BE)","I resultati di questa comune non sono ancora noti."
+939,50,0,0,"Steffisburg (BE)","I resultati di questa comune non sono ancora noti."
+940,50,0,0,"Teuffenthal (BE)","I resultati di questa comune non sono ancora noti."
+941,50,0,0,"Thierachern (BE)","I resultati di questa comune non sono ancora noti."
+942,50,0,0,"Thoune (BE)","I resultati di questa comune non sono ancora noti."
+943,50,0,0,"Uebeschi (BE)","I resultati di questa comune non sono ancora noti."
+944,50,0,0,"Uetendorf (BE)","I resultati di questa comune non sono ancora noti."
+945,50,0,0,"Unterlangenegg (BE)","I resultati di questa comune non sono ancora noti."
+946,50,0,0,"Wachseldorn (BE)","I resultati di questa comune non sono ancora noti."
+948,50,0,0,"Forst-Längenbühl (BE)","I resultati di questa comune non sono ancora noti."
+951,50,0,0,"Affoltern im Emmental (BE)","I resultati di questa comune non sono ancora noti."
+952,50,0,0,"Dürrenroth (BE)","I resultati di questa comune non sono ancora noti."
+953,50,0,0,"Eriswil (BE)","I resultati di questa comune non sono ancora noti."
+954,50,0,0,"Huttwil (BE)","I resultati di questa comune non sono ancora noti."
+955,50,0,0,"Lützelflüh (BE)","I resultati di questa comune non sono ancora noti."
+956,50,0,0,"Rüegsau (BE)","I resultati di questa comune non sono ancora noti."
+957,50,0,0,"Sumiswald (BE)","I resultati di questa comune non sono ancora noti."
+958,50,0,0,"Trachselwald (BE)","I resultati di questa comune non sono ancora noti."
+959,50,0,0,"Walterswil (BE)","I resultati di questa comune non sono ancora noti."
+960,50,0,0,"Wyssachen (BE)","I resultati di questa comune non sono ancora noti."
+971,50,0,0,"Attiswil (BE)","I resultati di questa comune non sono ancora noti."
+972,50,0,0,"Berken (BE)","I resultati di questa comune non sono ancora noti."
+973,50,0,0,"Bettenhausen (BE)","I resultati di questa comune non sono ancora noti."
+975,50,0,0,"Farnern (BE)","I resultati di questa comune non sono ancora noti."
+976,50,0,0,"Graben (BE)","I resultati di questa comune non sono ancora noti."
+977,50,0,0,"Heimenhausen (BE)","I resultati di questa comune non sono ancora noti."
+979,50,0,0,"Herzogenbuchsee (BE)","I resultati di questa comune non sono ancora noti."
+980,50,0,0,"Inkwil (BE)","I resultati di questa comune non sono ancora noti."
+981,50,0,0,"Niederbipp (BE)","I resultati di questa comune non sono ancora noti."
+982,50,0,0,"Niederönz (BE)","I resultati di questa comune non sono ancora noti."
+983,50,0,0,"Oberbipp (BE)","I resultati di questa comune non sono ancora noti."
+985,50,0,0,"Ochlenberg (BE)","I resultati di questa comune non sono ancora noti."
+987,50,0,0,"Rumisberg (BE)","I resultati di questa comune non sono ancora noti."
+988,50,0,0,"Seeberg (BE)","I resultati di questa comune non sono ancora noti."
+989,50,0,0,"Thörigen (BE)","I resultati di questa comune non sono ancora noti."
+990,50,0,0,"Walliswil bei Niederbipp (BE)","I resultati di questa comune non sono ancora noti."
+991,50,0,0,"Walliswil bei Wangen (BE)","I resultati di questa comune non sono ancora noti."
+992,50,0,0,"Wangen an der Aare (BE)","I resultati di questa comune non sono ancora noti."
+995,50,0,0,"Wiedlisbach (BE)","I resultati di questa comune non sono ancora noti."
