@@ -1,15 +1,15 @@
 "ID","Gemeinde_color","Ja_Stimmen_In_Prozent","Nein_Stimmen_In_Prozent","Gemeinde_it","Text_it"
-301,50,0,0,"Aarberg (BE)","I resultati di questa comune non sono ancora noti."
-302,50,0,0,"Bargen (BE)","I resultati di questa comune non sono ancora noti."
-303,50,0,0,"Grossaffoltern (BE)","I resultati di questa comune non sono ancora noti."
-304,50,0,0,"Kallnach (BE)","I resultati di questa comune non sono ancora noti."
-305,50,0,0,"Kappelen (BE)","I resultati di questa comune non sono ancora noti."
-306,50,0,0,"Lyss (BE)","I resultati di questa comune non sono ancora noti."
+301,23.9,23.9,76.1,"Aarberg (BE)",
+302,17.8,17.8,82.2,"Bargen (BE)",
+303,20.7,20.7,79.3,"Grossaffoltern (BE)",
+304,14.3,14.3,85.7,"Kallnach (BE)",
+305,15.1,15.1,84.9,"Kappelen (BE)",
+306,22.9,22.9,77.1,"Lyss (BE)",
 307,50,0,0,"Meikirch (BE)","I resultati di questa comune non sono ancora noti."
-309,50,0,0,"Radelfingen (BE)","I resultati di questa comune non sono ancora noti."
-310,50,0,0,"Rapperswil (BE)","I resultati di questa comune non sono ancora noti."
-311,50,0,0,"Schüpfen (BE)","I resultati di questa comune non sono ancora noti."
-312,50,0,0,"Seedorf (BE)","I resultati di questa comune non sono ancora noti."
+309,17.2,17.2,82.8,"Radelfingen (BE)",
+310,19.4,19.4,80.6,"Rapperswil (BE)",
+311,24.9,24.9,75.1,"Schüpfen (BE)",
+312,17.2,17.2,82.8,"Seedorf (BE)",
 321,16.5,16.5,83.5,"Aarwangen (BE)",
 322,14.2,14.2,85.8,"Auswil (BE)",
 323,18.1,18.1,81.9,"Bannwil (BE)",
@@ -45,38 +45,38 @@
 363,50,0,0,"Ostermundigen (BE)","I resultati di questa comune non sono ancora noti."
 371,45.7,45.7,54.3,"Bienne (BE)",
 372,34.3,34.3,65.7,"Evilard (BE)",
-381,50,0,0,"Arch (BE)","I resultati di questa comune non sono ancora noti."
-382,50,0,0,"Büetigen (BE)","I resultati di questa comune non sono ancora noti."
-383,50,0,0,"Büren an der Aare (BE)","I resultati di questa comune non sono ancora noti."
-385,50,0,0,"Diessbach bei Büren (BE)","I resultati di questa comune non sono ancora noti."
-386,50,0,0,"Dotzigen (BE)","I resultati di questa comune non sono ancora noti."
+381,10.8,10.8,89.2,"Arch (BE)",
+382,14.3,14.3,85.7,"Büetigen (BE)",
+383,20.6,20.6,79.4,"Büren an der Aare (BE)",
+385,17.8,17.8,82.2,"Diessbach bei Büren (BE)",
+386,18.8,18.8,81.2,"Dotzigen (BE)",
 387,17.1,17.1,82.9,"Longeau (BE)",
-388,50,0,0,"Leuzigen (BE)","I resultati di questa comune non sono ancora noti."
+388,9.8,9.8,90.2,"Leuzigen (BE)",
 390,13.9,13.9,86.1,"Meinisberg (BE)",
-391,50,0,0,"Oberwil bei Büren (BE)","I resultati di questa comune non sono ancora noti."
+391,18.8,18.8,81.2,"Oberwil bei Büren (BE)",
 392,19.7,19.7,80.3,"Perles (BE)",
-393,50,0,0,"Rüti bei Büren (BE)","I resultati di questa comune non sono ancora noti."
-394,50,0,0,"Wengi (BE)","I resultati di questa comune non sono ancora noti."
-401,50,0,0,"Aefligen (BE)","I resultati di questa comune non sono ancora noti."
-402,50,0,0,"Alchenstorf (BE)","I resultati di questa comune non sono ancora noti."
+393,10.5,10.5,89.5,"Rüti bei Büren (BE)",
+394,9.5,9.5,90.5,"Wengi (BE)",
+401,13.4,13.4,86.6,"Aefligen (BE)",
+402,14.4,14.4,85.6,"Alchenstorf (BE)",
 403,50,0,0,"Bäriswil (BE)","I resultati di questa comune non sono ancora noti."
-404,50,0,0,"Berthoud (BE)","I resultati di questa comune non sono ancora noti."
-405,50,0,0,"Ersigen (BE)","I resultati di questa comune non sono ancora noti."
-406,50,0,0,"Hasle bei Burgdorf (BE)","I resultati di questa comune non sono ancora noti."
-407,50,0,0,"Heimiswil (BE)","I resultati di questa comune non sono ancora noti."
-409,50,0,0,"Hindelbank (BE)","I resultati di questa comune non sono ancora noti."
-410,50,0,0,"Höchstetten (BE)","I resultati di questa comune non sono ancora noti."
-411,50,0,0,"Kernenried (BE)","I resultati di questa comune non sono ancora noti."
-412,50,0,0,"Kirchberg (BE)","I resultati di questa comune non sono ancora noti."
-413,50,0,0,"Koppigen (BE)","I resultati di questa comune non sono ancora noti."
-414,50,0,0,"Krauchthal (BE)","I resultati di questa comune non sono ancora noti."
-415,50,0,0,"Lyssach (BE)","I resultati di questa comune non sono ancora noti."
-418,50,0,0,"Oberburg (BE)","I resultati di questa comune non sono ancora noti."
-420,50,0,0,"Rüdtligen-Alchenflüh (BE)","I resultati di questa comune non sono ancora noti."
-421,50,0,0,"Rumendingen (BE)","I resultati di questa comune non sono ancora noti."
-422,50,0,0,"Rüti bei Lyssach (BE)","I resultati di questa comune non sono ancora noti."
-423,50,0,0,"Willadingen (BE)","I resultati di questa comune non sono ancora noti."
-424,50,0,0,"Wynigen (BE)","I resultati di questa comune non sono ancora noti."
+404,36,36,64,"Berthoud (BE)",
+405,15.7,15.7,84.3,"Ersigen (BE)",
+406,20.5,20.5,79.5,"Hasle bei Burgdorf (BE)",
+407,15.8,15.8,84.2,"Heimiswil (BE)",
+409,22,22,78,"Hindelbank (BE)",
+410,7.6,7.6,92.4,"Höchstetten (BE)",
+411,21.9,21.9,78.1,"Kernenried (BE)",
+412,20.5,20.5,79.5,"Kirchberg (BE)",
+413,14.5,14.5,85.5,"Koppigen (BE)",
+414,15.2,15.2,84.8,"Krauchthal (BE)",
+415,20.7,20.7,79.3,"Lyssach (BE)",
+418,19.4,19.4,80.6,"Oberburg (BE)",
+420,14,14,86,"Rüdtligen-Alchenflüh (BE)",
+421,9.4,9.4,90.6,"Rumendingen (BE)",
+422,18,18,82,"Rüti bei Lyssach (BE)",
+423,3.6,3.6,96.4,"Willadingen (BE)",
+424,14.9,14.9,85.1,"Wynigen (BE)",
 431,21.6,21.6,78.4,"Corgémont (BE)",
 432,40,40,60,"Cormoret (BE)",
 433,22,22,78,"Cortébert (BE)",
@@ -93,19 +93,19 @@
 448,39,39,61,"Villeret (BE)",
 449,35.5,35.5,64.5,"Sauge (BE)",
 450,21,21,79,"Péry-La Heutte (BE)",
-491,50,0,0,"Brüttelen (BE)","I resultati di questa comune non sono ancora noti."
-492,50,0,0,"Cerlier (BE)","I resultati di questa comune non sono ancora noti."
-493,50,0,0,"Finsterhennen (BE)","I resultati di questa comune non sono ancora noti."
-494,50,0,0,"Gals (BE)","I resultati di questa comune non sono ancora noti."
-495,50,0,0,"Gampelen (BE)","I resultati di questa comune non sono ancora noti."
-496,50,0,0,"Anet (BE)","I resultati di questa comune non sono ancora noti."
-497,50,0,0,"Lüscherz (BE)","I resultati di questa comune non sono ancora noti."
-498,50,0,0,"Müntschemier (BE)","I resultati di questa comune non sono ancora noti."
-499,50,0,0,"Siselen (BE)","I resultati di questa comune non sono ancora noti."
-500,50,0,0,"Treiten (BE)","I resultati di questa comune non sono ancora noti."
-501,50,0,0,"Tschugg (BE)","I resultati di questa comune non sono ancora noti."
-502,50,0,0,"Vinelz (BE)","I resultati di questa comune non sono ancora noti."
-533,50,0,0,"Bätterkinden (BE)","I resultati di questa comune non sono ancora noti."
+491,15.8,15.8,84.2,"Brüttelen (BE)",
+492,27.4,27.4,72.6,"Cerlier (BE)",
+493,15.9,15.9,84.1,"Finsterhennen (BE)",
+494,20.9,20.9,79.1,"Gals (BE)",
+495,21.1,21.1,78.9,"Gampelen (BE)",
+496,25.5,25.5,74.5,"Anet (BE)",
+497,13.9,13.9,86.1,"Lüscherz (BE)",
+498,16,16,84,"Müntschemier (BE)",
+499,15.3,15.3,84.7,"Siselen (BE)",
+500,9.3,9.3,90.7,"Treiten (BE)",
+501,33.1,33.1,66.9,"Tschugg (BE)",
+502,20.7,20.7,79.3,"Vinelz (BE)",
+533,24.5,24.5,75.5,"Bätterkinden (BE)",
 538,50,0,0,"Fraubrunnen (BE)","I resultati di questa comune non sono ancora noti."
 540,50,0,0,"Jegenstorf (BE)","I resultati di questa comune non sono ancora noti."
 541,50,0,0,"Iffwil (BE)","I resultati di questa comune non sono ancora noti."
@@ -113,10 +113,10 @@
 544,50,0,0,"Moosseedorf (BE)","I resultati di questa comune non sono ancora noti."
 546,50,0,0,"Münchenbuchsee (BE)","I resultati di questa comune non sono ancora noti."
 551,50,0,0,"Urtenen-Schönbühl (BE)","I resultati di questa comune non sono ancora noti."
-552,50,0,0,"Utzenstorf (BE)","I resultati di questa comune non sono ancora noti."
+552,20.1,20.1,79.9,"Utzenstorf (BE)",
 553,50,0,0,"Wiggiswil (BE)","I resultati di questa comune non sono ancora noti."
-554,50,0,0,"Wiler bei Utzenstorf (BE)","I resultati di questa comune non sono ancora noti."
-556,50,0,0,"Zielebach (BE)","I resultati di questa comune non sono ancora noti."
+554,13.9,13.9,86.1,"Wiler bei Utzenstorf (BE)",
+556,0,0,100,"Zielebach (BE)",
 557,50,0,0,"Zuzwil (BE)","I resultati di questa comune non sono ancora noti."
 561,8.8,8.8,91.2,"Adelboden (BE)",
 562,14.3,14.3,85.7,"Aeschi bei Spiez (BE)",
@@ -208,14 +208,14 @@
 731,18.3,18.3,81.7,"Aegerten (BE)",
 732,15.9,15.9,84.1,"Bellmund (BE)",
 733,29.2,29.2,70.8,"Brügg (BE)",
-734,50,0,0,"Bühl (BE)","I resultati di questa comune non sono ancora noti."
-735,50,0,0,"Epsach (BE)","I resultati di questa comune non sono ancora noti."
-736,50,0,0,"Hagneck (BE)","I resultati di questa comune non sono ancora noti."
-737,50,0,0,"Hermrigen (BE)","I resultati di questa comune non sono ancora noti."
-738,50,0,0,"Jens (BE)","I resultati di questa comune non sono ancora noti."
+734,16.3,16.3,83.7,"Bühl (BE)",
+735,10.4,10.4,89.6,"Epsach (BE)",
+736,21.5,21.5,78.5,"Hagneck (BE)",
+737,20.5,20.5,79.5,"Hermrigen (BE)",
+738,19.5,19.5,80.5,"Jens (BE)",
 739,25,25,75,"Ipsach (BE)",
 740,32.1,32.1,67.9,"Gléresse (BE)",
-741,50,0,0,"Merzligen (BE)","I resultati di questa comune non sono ancora noti."
+741,26.1,26.1,73.9,"Merzligen (BE)",
 742,12.5,12.5,87.5,"Mörigen (BE)",
 743,39.8,39.8,60.2,"Nidau (BE)",
 744,19.3,19.3,80.7,"Orpund (BE)",
@@ -223,11 +223,11 @@
 746,15.1,15.1,84.9,"Safnern (BE)",
 747,19.4,19.4,80.6,"Scheuren (BE)",
 748,9.3,9.3,90.7,"Schwadernau (BE)",
-749,50,0,0,"Studen (BE)","I resultati di questa comune non sono ancora noti."
+749,13.6,13.6,86.4,"Studen (BE)",
 750,23.9,23.9,76.1,"Sutz-Lattrigen (BE)",
-751,50,0,0,"Täuffelen (BE)","I resultati di questa comune non sono ancora noti."
-754,50,0,0,"Walperswil (BE)","I resultati di questa comune non sono ancora noti."
-755,50,0,0,"Worben (BE)","I resultati di questa comune non sono ancora noti."
+751,21.4,21.4,78.6,"Täuffelen (BE)",
+754,13.5,13.5,86.5,"Walperswil (BE)",
+755,18.2,18.2,81.8,"Worben (BE)",
 756,27.5,27.5,72.5,"Douanne-Daucher (BE)",
 761,6.4,6.4,93.6,"Därstetten (BE)",
 762,11,11,89,"Diemtigen (BE)",
@@ -268,15 +268,15 @@
 886,16.7,16.7,83.3,"Wattenwil (BE)",
 888,50,0,0,"Wald (BE)","I resultati di questa comune non sono ancora noti."
 889,50,0,0,"Thurnen (BE)","I resultati di questa comune non sono ancora noti."
-901,50,0,0,"Eggiwil (BE)","I resultati di questa comune non sono ancora noti."
-902,50,0,0,"Langnau im Emmental (BE)","I resultati di questa comune non sono ancora noti."
-903,50,0,0,"Lauperswil (BE)","I resultati di questa comune non sono ancora noti."
-904,50,0,0,"Röthenbach im Emmental (BE)","I resultati di questa comune non sono ancora noti."
-905,50,0,0,"Rüderswil (BE)","I resultati di questa comune non sono ancora noti."
-906,50,0,0,"Schangnau (BE)","I resultati di questa comune non sono ancora noti."
-907,50,0,0,"Signau (BE)","I resultati di questa comune non sono ancora noti."
-908,50,0,0,"Trub (BE)","I resultati di questa comune non sono ancora noti."
-909,50,0,0,"Trubschachen (BE)","I resultati di questa comune non sono ancora noti."
+901,9,9,91,"Eggiwil (BE)",
+902,26.8,26.8,73.2,"Langnau im Emmental (BE)",
+903,11.3,11.3,88.7,"Lauperswil (BE)",
+904,4.4,4.4,95.6,"Röthenbach im Emmental (BE)",
+905,13.3,13.3,86.7,"Rüderswil (BE)",
+906,5.4,5.4,94.6,"Schangnau (BE)",
+907,13.6,13.6,86.4,"Signau (BE)",
+908,17.7,17.7,82.3,"Trub (BE)",
+909,17.5,17.5,82.5,"Trubschachen (BE)",
 921,16,16,84,"Amsoldingen (BE)",
 922,17.5,17.5,82.5,"Blumenstein (BE)",
 923,8.4,8.4,91.6,"Buchholterberg (BE)",
@@ -300,14 +300,14 @@
 945,14.2,14.2,85.8,"Unterlangenegg (BE)",
 946,6.2,6.2,93.8,"Wachseldorn (BE)",
 948,18.1,18.1,81.9,"Forst-Längenbühl (BE)",
-951,50,0,0,"Affoltern im Emmental (BE)","I resultati di questa comune non sono ancora noti."
-952,50,0,0,"Dürrenroth (BE)","I resultati di questa comune non sono ancora noti."
+951,8.3,8.3,91.7,"Affoltern im Emmental (BE)",
+952,7.4,7.4,92.6,"Dürrenroth (BE)",
 953,14.9,14.9,85.1,"Eriswil (BE)",
 954,17.1,17.1,82.9,"Huttwil (BE)",
-955,50,0,0,"Lützelflüh (BE)","I resultati di questa comune non sono ancora noti."
-956,50,0,0,"Rüegsau (BE)","I resultati di questa comune non sono ancora noti."
-957,50,0,0,"Sumiswald (BE)","I resultati di questa comune non sono ancora noti."
-958,50,0,0,"Trachselwald (BE)","I resultati di questa comune non sono ancora noti."
+955,17.4,17.4,82.6,"Lützelflüh (BE)",
+956,12.6,12.6,87.4,"Rüegsau (BE)",
+957,17,17,83,"Sumiswald (BE)",
+958,14.4,14.4,85.6,"Trachselwald (BE)",
 959,9.8,9.8,90.2,"Walterswil (BE)",
 960,13.3,13.3,86.7,"Wyssachen (BE)",
 971,12.2,12.2,87.8,"Attiswil (BE)",
