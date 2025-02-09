@@ -617,13 +617,13 @@
 5,1373,16.710182768,192,957,41.839331152,1151,2751,1149,TRUE,"SZ","Steinen","Steinen","Steinen","Steinen SZ","Steinen (SZ)","Steinen (SZ)","Schwyz","Schwyz","Svitto",15.421295326,FALSE,FALSE
 5,1374,12.828947368,39,265,42.597765363,305,716,304,TRUE,"SZ","Steinerberg","Steinerberg","Steinerberg","Steinerberg SZ","Steinerberg (SZ)","Steinerberg (SZ)","Schwyz","Schwyz","Svitto",15.421295326,FALSE,FALSE
 5,1375,4.56182473,38,795,45.194384449,837,1852,833,TRUE,"SZ","Unteriberg","Unteriberg","Unteriberg","Unteriberg SZ","Unteriberg (SZ)","Unteriberg (SZ)","Schwyz","Schwyz","Svitto",15.421295326,FALSE,FALSE
-6,1401,16.985376828,302,1476,41.152357094,1807,4391,1778,TRUE,"OW","Alpnach","Alpnach","Alpnach","Alpnach OW","Alpnach (OW)","Alpnach (OW)","Obwalden","Obwald","Obvaldo",16.989998795,FALSE,FALSE
-6,1402,17.022961203,215,1048,46.868171886,1287,2746,1263,TRUE,"OW","Engelberg","Engelberg","Engelberg","Engelberg OW","Engelberg (OW)","Engelberg (OW)","Obwalden","Obwald","Obvaldo",16.989998795,FALSE,FALSE
-6,1403,16.086956522,185,965,41.186859767,1166,2831,1150,TRUE,"OW","Giswil","Giswil","Giswil","Giswil OW","Giswil (OW)","Giswil (OW)","Obwalden","Obwald","Obvaldo",16.989998795,FALSE,FALSE
-6,1404,13.619099295,251,1592,39.430379747,1869,4740,1843,TRUE,"OW","Kerns","Kerns","Kerns","Kerns OW","Kerns (OW)","Kerns (OW)","Obwalden","Obwald","Obvaldo",16.989998795,FALSE,FALSE
-6,1405,12.375533428,87,616,45.031446541,716,1590,703,TRUE,"OW","Lungern","Lungern","Lungern","Lungern OW","Lungern (OW)","Lungern (OW)","Obwalden","Obwald","Obvaldo",16.989998795,FALSE,FALSE
-6,1406,23.687580026,370,1192,41.057542768,1584,3858,1562,TRUE,"OW","Sachseln","Sachseln","Sachseln","Sachseln OW","Sachseln (OW)","Sachseln (OW)","Obwalden","Obwald","Obvaldo",16.989998795,FALSE,FALSE
-6,1407,,,,,,,,FALSE,"OW","Sarnen","Sarnen","Sarnen","Sarnen OW","Sarnen (OW)","Sarnen (OW)","Obwalden","Obwald","Obvaldo",16.989998795,FALSE,FALSE
+6,1401,16.985376828,302,1476,41.152357094,1807,4391,1778,TRUE,"OW","Alpnach","Alpnach","Alpnach","Alpnach OW","Alpnach (OW)","Alpnach (OW)","Obwalden","Obwald","Obvaldo",17.016825037,FALSE,FALSE
+6,1402,17.022961203,215,1048,46.868171886,1287,2746,1263,TRUE,"OW","Engelberg","Engelberg","Engelberg","Engelberg OW","Engelberg (OW)","Engelberg (OW)","Obwalden","Obwald","Obvaldo",17.016825037,FALSE,FALSE
+6,1403,16.086956522,185,965,41.186859767,1166,2831,1150,TRUE,"OW","Giswil","Giswil","Giswil","Giswil OW","Giswil (OW)","Giswil (OW)","Obwalden","Obwald","Obvaldo",17.016825037,FALSE,FALSE
+6,1404,13.619099295,251,1592,39.430379747,1869,4740,1843,TRUE,"OW","Kerns","Kerns","Kerns","Kerns OW","Kerns (OW)","Kerns (OW)","Obwalden","Obwald","Obvaldo",17.016825037,FALSE,FALSE
+6,1405,12.375533428,87,616,45.031446541,716,1590,703,TRUE,"OW","Lungern","Lungern","Lungern","Lungern OW","Lungern (OW)","Lungern (OW)","Obwalden","Obwald","Obvaldo",17.016825037,FALSE,FALSE
+6,1406,23.687580026,370,1192,41.057542768,1584,3858,1562,TRUE,"OW","Sachseln","Sachseln","Sachseln","Sachseln OW","Sachseln (OW)","Sachseln (OW)","Obwalden","Obwald","Obvaldo",17.016825037,FALSE,FALSE
+6,1407,17.087011349,542,2630,42.612363253,3233,7587,3172,TRUE,"OW","Sarnen","Sarnen","Sarnen","Sarnen OW","Sarnen (OW)","Sarnen (OW)","Obwalden","Obwald","Obvaldo",17.016825037,FALSE,FALSE
 7,1501,15.490375802,169,922,40.513761468,1104,2725,1091,TRUE,"NW","Beckenried","Beckenried","Beckenried","Beckenried NW","Beckenried (NW)","Beckenried (NW)","Nidwalden","Nidwald","Nidvaldo",16.824504291,FALSE,FALSE
 7,1502,13.734466972,210,1319,39.901349948,1537,3852,1529,TRUE,"NW","Buochs","Buochs","Buochs","Buochs NW","Buochs (NW)","Buochs (NW)","Nidwalden","Nidwald","Nidvaldo",16.824504291,FALSE,FALSE
 7,1503,12.679162073,115,792,62.678450034,922,1471,907,TRUE,"NW","Dallenwil","Dallenwil","Dallenwil","Dallenwil NW","Dallenwil (NW)","Dallenwil (NW)","Nidwalden","Nidwald","Nidvaldo",16.824504291,FALSE,FALSE
@@ -635,9 +635,9 @@
 7,1509,27.345629511,682,1812,41.900182391,2527,6031,2494,TRUE,"NW","Stans","Stans","Stans","Stans NW","Stans (NW)","Stans (NW)","Nidwalden","Nidwald","Nidvaldo",16.824504291,FALSE,FALSE
 7,1510,14.718019257,214,1240,43.338257016,1467,3385,1454,TRUE,"NW","Stansstad","Stansstad","Stansstad","Stansstad NW","Stansstad (NW)","Stansstad (NW)","Nidwalden","Nidwald","Nidvaldo",16.824504291,FALSE,FALSE
 7,1511,16.638935108,100,501,37.965260546,612,1612,601,TRUE,"NW","Wolfenschiessen","Wolfenschiessen","Wolfenschiessen","Wolfenschiessen NW","Wolfenschiessen (NW)","Wolfenschiessen (NW)","Nidwalden","Nidwald","Nidvaldo",16.824504291,FALSE,FALSE
-8,1630,,,,,,,,FALSE,"GL","Glarus Nord","Glarus Nord","Glarus Nord","Glarus Nord GL","Glarus Nord (GL)","Glarus Nord (GL)","Glarus","Glaris","Glarona",,FALSE,FALSE
-8,1631,,,,,,,,FALSE,"GL","Glarus Süd","Glarus Süd","Glarus Süd","Glarus Süd GL","Glarus Süd (GL)","Glarus Süd (GL)","Glarus","Glaris","Glarona",,FALSE,FALSE
-8,1632,,,,,,,,FALSE,"GL","Glarus","Glaris","Glarona","Glarus GL","Glaris (GL)","Glarona (GL)","Glarus","Glaris","Glarona",,FALSE,FALSE
+8,1630,22.476089267,846,2918,31.87942068,3786,11876,3764,TRUE,"GL","Glarus Nord","Glarus Nord","Glarus Nord","Glarus Nord GL","Glarus Nord (GL)","Glarus Nord (GL)","Glarus","Glaris","Glarona",24.060565871,FALSE,FALSE
+8,1631,22.500964878,583,2008,37.184063973,2604,7003,2591,TRUE,"GL","Glarus Süd","Glarus Süd","Glarus Süd","Glarus Süd GL","Glarus Süd (GL)","Glarus Süd (GL)","Glarus","Glaris","Glarona",24.060565871,FALSE,FALSE
+8,1632,27.775714816,748,1945,34.621212121,2742,7920,2693,TRUE,"GL","Glarus","Glaris","Glarona","Glarus GL","Glaris (GL)","Glarona (GL)","Glarus","Glaris","Glarona",24.060565871,FALSE,FALSE
 9,1701,20.817430025,1309,4979,42.85908227,6314,14732,6288,TRUE,"ZG","Baar","Baar","Baar","Baar ZG","Baar (ZG)","Baar (ZG)","Zug","Zoug","Zugo",22.838992455,FALSE,FALSE
 9,1702,24.2974492,1124,3502,42.264941691,4639,10976,4626,TRUE,"ZG","Cham","Cham","Cham","Cham ZG","Cham (ZG)","Cham (ZG)","Zug","Zoug","Zugo",22.838992455,FALSE,FALSE
 9,1703,21.889821233,600,2141,45.349604222,2750,6064,2741,TRUE,"ZG","Hünenberg","Hünenberg","Hünenberg","Hünenberg ZG","Hünenberg (ZG)","Hünenberg (ZG)","Zug","Zoug","Zugo",22.838992455,FALSE,FALSE
