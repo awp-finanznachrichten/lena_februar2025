@@ -5,7 +5,8 @@ library(zip)
 library(RCurl)
 
 #Set Working Path
-MAIN_PATH <- "C:/Users/sw/OneDrive/SDA_eidgenoessische_abstimmungen/20250209_LENA_Abstimmungen"
+#MAIN_PATH <- "C:/Users/sw/OneDrive/SDA_eidgenoessische_abstimmungen/20250209_LENA_Abstimmungen"
+MAIN_PATH <- "C:/Automatisierungen/lena_februar2025"
 setwd(MAIN_PATH)
 
 #Load Libraries and Functions
